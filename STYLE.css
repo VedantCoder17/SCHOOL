@@ -1,0 +1,85 @@
+.body{
+    background-repeat: no-repeat;
+    background-size:800px;
+    background-position: center;
+    text-align: center;
+    border-width: 5px;
+    border-color: white;
+    border-style: dashed;
+}
+#nav{
+  top: 0;
+  z-index: 9999;
+  position:sticky;  
+  color:tomato;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:violet;
+  scroll-behavior: smooth;
+}
+#marquee{
+    background-color: rgb(255, 230, 0);
+    color: blue;
+}
+#div{
+background-color: black;
+}
+#SchoolName{
+    color:white;
+}
+.text{
+    color: lightcyan;
+}
+.main-div{
+    float:left;
+    width: 33%;
+    padding: 5px;
+}
+.main-div img{
+    width: 100%;
+    height: 300px;
+
+}
+.main-div h5{
+    margin-left: 20px;
+
+}
+.movie_head{
+    font-size: 20 px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    }
+    .movie_head i{
+        float: right;
+        cursor:pointer;
+    }
+    .environment_li{
+        margin-top: 13px;
+    }
+    .environment_li h4{
+        border-bottom:1px solid white;
+        padding: 8px;
+        }
+        .environment_li img{
+            border-radius: 25px;
+            height: 250px;
+        }
+        .environment_li p{
+            margin-top:10px ;
+
+        }
+        .modal-content{
+            margin-top: 100px;
+            }
+            .img_modal{
+                display: inline-block;
+            }
+            .p_modal{
+                margin-top: 10px;
+            }
+            .modal_body{
+                text-align: center;
+            }
